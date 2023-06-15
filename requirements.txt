@@ -2,3 +2,4 @@ openpyxl
 voila
 ipywidgets
 Pillow
+Pandas
