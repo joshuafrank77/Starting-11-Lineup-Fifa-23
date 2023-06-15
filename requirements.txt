@@ -3,3 +3,5 @@ voila
 ipywidgets
 Pillow
 Pandas
+pycountry_convert
+pycountry
