@@ -1,5 +1,7 @@
 openpyxl
 voila
 ipywidgets
-PIL
-io
+Pillow
+Pandas
+pycountry_convert
+pycountry
