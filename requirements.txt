@@ -2,4 +2,3 @@ openpyxl
 voila
 ipywidgets
 Pillow
-io
