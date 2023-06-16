@@ -1,6 +1,6 @@
 openpyxl
 voila
-ipywidgets
+ipywidgets==7.7.1
 Pillow
 pycountry_convert
 pycountry
