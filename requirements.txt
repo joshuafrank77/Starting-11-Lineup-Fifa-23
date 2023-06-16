@@ -1,7 +1,9 @@
 openpyxl
 voila
-ipywidgets==8.0.5
+ipywidgets
 Pillow
 Pandas
 pycountry_convert
 pycountry
+widgetsnbextension
+jupyterlab_widgets
