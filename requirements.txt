@@ -2,8 +2,5 @@ openpyxl
 voila
 ipywidgets
 Pillow
-Pandas
 pycountry_convert
 pycountry
-widgetsnbextension
-jupyterlab_widgets
