@@ -4,3 +4,4 @@ ipywidgets
 Pillow
 pycountry_convert
 pycountry
+pandas
