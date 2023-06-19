@@ -8,6 +8,12 @@ The project aims to build a starting 11 lineup within a limited budget using pla
 
 ## Workflow
 
+
+
+https://github.com/joshuafrank77/Starting-11-Lineup-Fifa-23/assets/41444376/f988b10a-a459-49b8-b9a1-5bdfbd1476e3
+
+
+
 1. Start the web page and select your budget for building the ideal 11 lineup. For example, choose a budget of 200 million euros.
 
    ![Budget Selection](https://github.com/joshuafrank77/Starting-11-Lineup-Fifa-23/assets/41444376/f39f0311-0282-4cec-92d5-681bc85d8b6a)
