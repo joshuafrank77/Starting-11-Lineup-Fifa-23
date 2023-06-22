@@ -1,6 +1,6 @@
 # Starting 11 Lineup - FIFA 23
 
-Access the project [here]([https://pd-joshu-fifa23star-83f13da64bf1423bbe627824cf883b14.community.saturnenterprise.io/voila/render/Starting-11-Lineup-Fifa-23/Explore_the_Database_Fifa.ipynb](https://fifa-starting-11-2fe096aa23d5.herokuapp.com/)).
+Access the project [here](https://fifa-starting-11-2fe096aa23d5.herokuapp.com/).
 
 ## Description
 
